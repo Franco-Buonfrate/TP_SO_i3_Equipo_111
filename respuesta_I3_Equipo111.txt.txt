@@ -1,0 +1,9 @@
+a - El main contiene todos los archivos de las diferentes ramas una vez que se realizo el merge
+
+b - si, a medida que se iban subiendo los archivos, cada vez que se actualizaba el reopsitorio podia ver los datos agregar, como tambien descargarlos con el clone
+
+c - 
+git merge Alvarez 
+git pull origin main
+git push origin main
+
