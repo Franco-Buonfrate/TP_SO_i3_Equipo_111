@@ -1,0 +1,65 @@
+Nombre de host:                            DESKTOP-KCP8CKF
+Nombre del sistema operativo:              Microsoft Windows 10 Home
+Versión del sistema operativo:             10.0.19044 N/D Compilación 19044
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              GonzaAlvarezz@hotmail.com
+Organización registrada:                   N/D
+Id. del producto:                          00326-00782-74072-AAOEM
+Fecha de instalación original:             29/11/2021, 17:31:45
+Tiempo de arranque del sistema:            6/6/2022, 09:32:15
+Fabricante del sistema:                    Gigabyte Technology Co., Ltd.
+Modelo el sistema:                         H110M-H
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 158 Stepping 9 GenuineIntel ~3001 Mhz
+Versión del BIOS:                          American Megatrends Inc. F20, 16/11/2016
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          16.336 MB
+Memoria física disponible:                 11.054 MB
+Memoria virtual: tamaño máximo:            18.768 MB
+Memoria virtual: disponible:               11.264 MB
+Memoria virtual: en uso:                   7.504 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-KCP8CKF
+Revisión(es):                              9 revisión(es) instaladas.
+                                           [01]: KB5013624
+                                           [02]: KB4562830
+                                           [03]: KB5003791
+                                           [04]: KB5013942
+                                           [05]: KB5006753
+                                           [06]: KB5007273
+                                           [07]: KB5011352
+                                           [08]: KB5011651
+                                           [09]: KB5014032
+Tarjeta(s) de red:                         4 Tarjetas de interfaz de red instaladas.
+                                           [01]: Qualcomm Atheros AR9485 Wireless Network Adapter
+                                                 Nombre de conexión: Wi-Fi
+                                                 Estado:             Medios desconectados
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.5
+                                                 [02]: fe80::b834:56a9:7de8:8ab6
+                                           [03]: LogMeIn Hamachi Virtual Ethernet Adapter
+                                                 Nombre de conexión: Hamachi
+                                                 Estado:             Hardware ausente
+                                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::1470:6a65:e36a:a366
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: Sí
+                                           Se habilitó la virtualización en el firmware: Sí
+                                           Traducción de direcciones de segundo nivel: Sí
+                                           La prevención de ejecución de datos está disponible: Sí
