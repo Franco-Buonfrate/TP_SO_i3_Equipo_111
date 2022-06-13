@@ -2,4 +2,4 @@
 
 ALFA: Fernandez Barbero Rodrigo
 BETA: Buonfrate Franco 
-GAMA:
+GAMMA: Alvarez Gonzalo
