@@ -13,3 +13,40 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Dirección IPv4. . . . . . . . . . . . . . : 160.148.34.1
    Máscara de subred . . . . . . . . . . . . : 244.244.444.0
    Puerta de enlace predeterminada . . . . . :
+
+NOMBRE: Gonzalo Alvarez
+
+IPCONFIG:
+Configuración IP de Windows
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::b834:56a9:7de8:8ab6%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.167.0.5
+   Máscara de subred . . . . . . . . . . . . : 255.254.255.0
+   Puerta de enlace predeterminada . . . . . : 192.163.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::1470:6a65:e26a:a336%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.167.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.254.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+HORA: 16:50
