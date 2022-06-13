@@ -51,3 +51,7 @@ Requisitos Hyper-V:                        Extensiones de modo de monitor de VM:
                                            Se habilitó la virtualización en el firmware: Sí
                                            Traducción de direcciones de segundo nivel: Sí
                                            La prevención de ejecución de datos está disponible: Sí
+
+NOMBRE: Fanco Buonfrate
+IP: 192.168.0.201
+HORA: 16:21
