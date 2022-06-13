@@ -1,7 +1,11 @@
-Gonzalo Alvarez
-192.168.56.1
-15:52
+NOMBRE: Gonzalo Alvarez
+IP: 192.168.56.1
+HORA: 15:52
 
 NOMBRE: Fernandez Barbero Rodrigo
 IP: 192.168.0.201
 HORA: 15:55
+
+NOMBRE: Fanco Buonfrate
+IP: 192.168.0.201
+HORA: 16:21
