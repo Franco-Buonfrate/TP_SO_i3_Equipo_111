@@ -1,9 +1,37 @@
-a - El main contiene todos los archivos de las diferentes ramas una vez que se realizo el merge
+BETA:
+a-¿Como queda El master después de estos cambios? 
+El main contiene todos los archivos de las diferentes ramas una vez que se realizo el merge
 
-b - si, a medida que se iban subiendo los archivos, cada vez que se actualizaba el reopsitorio podia ver los datos agregar, como tambien descargarlos con el clone
+b-¿Beta pudo ver todos los cambios que se realizaron? 
+Si, a medida que se iban subiendo los archivos, cada vez que se actualizaba el reopsitorio podia ver los datos agregar, como tambien descargarlos con el clone
 
-c - 
+c-¿Que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
 git merge Alvarez 
 git pull origin main
 git push origin main
 
+GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No, los datos actualizados quedan en el main.
+La rama creada por BETA (Buonfrate) quedo con el archivo beta.txt
+La rama creada por GAMMA (Alvarez) quedo con los siguientes archivos:
+CPUAlfa.txt
+CPUBeta.txt
+CPUGamma.txt
+README.md
+datos.txt
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+Antes de hacer el merge tuvimos que hacer el git pull
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+Comandos utilizados:
+1. git clone https://github.com/Franco-Buonfrate/TP_SO_i3_Equipo_111.git
+2. git checkout Buonfrate
+(Modifico beta.txt)
+3. git status
+4. git add .
+5. git commit -m "Punto 7 GAMMA"
+6. git push -u origin Buonfrate
+
+ALFA:
