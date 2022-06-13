@@ -35,3 +35,11 @@ Comandos utilizados:
 6. git push -u origin Buonfrate
 
 ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+Comandos utilizados:
+1. git clone (para descargar el repositorio en forma local)
+2. git checkout (para actualizar la rama main a buonfrate)
+3. Agrega los datos al archivo "beta.txt"
+4. git add . (agrega los cambios)
+5. git commit -m (agrega el commit)
+6. git push -u origin Buonfrate
