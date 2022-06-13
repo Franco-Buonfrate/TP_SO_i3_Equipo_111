@@ -1,5 +1,5 @@
 # TP_SO_i3_Equipo_111
 
-ALFA:
+ALFA: Fernandez Barbero Rodrigo
 BETA: Buonfrate Franco 
 GAMA:
