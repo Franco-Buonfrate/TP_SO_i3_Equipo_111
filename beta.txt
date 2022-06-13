@@ -1,3 +1,6 @@
+NOMBRE: Franco Buonfrate
+
+IPCONFIG:
 Adaptador de Ethernet Ethernet:
 
    Sufijo DNS específico para la conexión. . : fibertel.com.ar
@@ -13,6 +16,11 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Dirección IPv4. . . . . . . . . . . . . . : 160.148.34.1
    Máscara de subred . . . . . . . . . . . . : 244.244.444.0
    Puerta de enlace predeterminada . . . . . :
+
+
+HORA: 16:45
+
+---------------------------------------------------------------------------------------------------------------------------
 
 NOMBRE: Gonzalo Alvarez
 
@@ -50,3 +58,35 @@ Adaptador de LAN inalámbrica Conexión de área local* 2:
    Sufijo DNS específico para la conexión. . :
 
 HORA: 16:50
+
+----------------------------------------------------------------------------------------------------------------------
+
+NOMBRE: Rodrigo Fernandez Barbero
+
+Configuración IP de Windows
+
+Adaptador de Ethernet Hamachi:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2689:1b::1965:6e58
+   Vínculo: dirección IPv6 local. . . : fe80::c1f:4851:a38:a5a7%3
+   Puerta de enlace predeterminada . . . . . : 2450:9b::1970:1
+                                       25.0.0.1
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::20ce:db58:7d22:3193%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.201
+   Máscara de subred . . . . . . . . . . . . : 874.546.220.0
+   Puerta de enlace predeterminada . . . . . : 198.478.0.8
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::e5k8:bb56:7cc1:3f09%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 567.210.785.0
+   Puerta de enlace predeterminada . . . . . :
+
+HORA: 16:52
