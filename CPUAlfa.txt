@@ -1,0 +1,70 @@
+C:\Users\Rodoo>systeminfo
+
+Nombre de host:                            DESKTOP-5TSTJDA
+Nombre del sistema operativo:              Microsoft Windows 10 Home
+Versión del sistema operativo:             10.0.19043 N/D Compilación 19043
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              pepeargento@hotmail.com
+Organización registrada:
+Id. del producto:                          00785-145789-25745-AB15786
+Fecha de instalación original:             3/8/2021, 12:22:39
+Tiempo de arranque del sistema:            13/6/2022, 08:13:18
+Fabricante del sistema:                    Gigabyte Technology Co., Ltd.
+Modelo el sistema:                         AB350M-DS3H V2
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: AMD64 Family 23 Model 8 Stepping 2 AuthenticAMD ~3200 Mhz
+Versión del BIOS:                          American Megatrends Inc. F31, 6/5/2019
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume4
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          16.332 MB
+Memoria física disponible:                 8.583 MB
+Memoria virtual: tamaño máximo:            22.476 MB
+Memoria virtual: disponible:               9.432 MB
+Memoria virtual: en uso:                   13.044 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-9TOTRDA
+Revisión(es):                              9 revisión(es) instaladas.
+                                           [01]: KB5013624
+                                           [02]: KB5000736
+                                           [03]: KB5013942
+                                           [04]: KB5006753
+                                           [05]: KB5007273
+                                           [06]: KB5011352
+                                           [07]: KB5011651
+                                           [08]: KB5014032
+                                           [09]: KB5005699
+Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.5.87
+                                                 Direcciones IP
+                                                 [01]: 192.158.1.287
+                                                 [02]: fe80::20ce:db58:7d22:3193
+                                           [02]: LogMeIn Hamachi Virtual Ethernet Adapter
+                                                 Nombre de conexión: Hamachi
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      54.1655.245.258
+                                                 Direcciones IP
+                                                 [01]: fe80::c1f:4851:a38:a5a7
+                                                 [02]: 2620:9b::1931:6e58
+                                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 587.7878.65.85
+                                                 [02]: fe80::e5f2:bb56:7cc6:3f99
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: Sí
+                                           Se habilitó la virtualización en el firmware: Sí
+                                           Traducción de direcciones de segundo nivel: Sí
+                                           La prevención de ejecución de datos está disponible: Sí
+
+C:\Users\Rodoo>
